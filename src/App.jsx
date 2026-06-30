@@ -364,8 +364,8 @@ const MARIAMMA_QUESTIONS = {
 const BIO_DATA = {
   mariamma: {
     details: {
-      "Full Name": "Mariamma [Last Name]",
-      "Birthplace": "Kerala, India",
+      "Full Name": "Mariamma Thomas",
+      "Birthplace": "Malakara, Kerala, India",
       "Year of Arrival": "1960",
       "Profession": "Registered Nurse",
       "City of Settlement": "Chicago, IL"
@@ -383,16 +383,14 @@ const BIO_DATA = {
   },
   ashraf: {
     details: {
-      "Full Name": "Ashraf [Last Name]",
-      "Birthplace": "Hyderabad, India",
-      "Year of Arrival": "1958",
-      "Profession": "Mechanical Engineer",
-      "City of Settlement": "Peoria, IL"
+      "Full Name": "Ashraf Samji Manji",
+      "Birthplace": "Dar es Salaam, Tanzania",
+      "Year of Arrival": "Mid-1960s",
+      "Profession": "Demographer (for Chicago Public Schools), Urban Geographer, and Volunteer Producer/Director.",
+      "City of Settlement": "Evanston, Illinois."
     },
     biography: [
-      "Ashraf arrived in the United States in the late 1950s as a student, drawn by the engineering programs in the Midwest. In an era before the internet and cheap international flights, his connection to his homeland was maintained through letters that took weeks to arrive.",
-      "His oral history details his experiences with both welcome and prejudice in pre-Civil Rights America. As a professional engineer, he contributed to major infrastructural projects in Illinois while simultaneously building a vibrant local South Asian community from the ground up.",
-      "Today, Ashraf's legacy is evident in the thriving community organizations he helped found, providing a crucial support network for subsequent generations of immigrants."
+      "Ashraf Samji Manji (1943–2026) was a distinguished urban geographer and demographer for Chicago Public Schools who dedicated his career to civic planning and equitable education access. Born in Dar es Salaam, Tanzania, he earned his doctorate from Northwestern University before becoming a pioneering advocate in Chicago's Asian American community. As a founding board member of the Asian American Institute, he championed racial equity and elevated Asian American voices in local leadership. Beyond his professional work, Manji was a passionate architectural preservationist, film producer, and storyteller who celebrated diverse cultural experiences. He passed away in Evanston, Illinois, leaving a profound legacy of community building and advocacy."
     ],
     gallery: [
       "https://via.placeholder.com/400x300?text=Ashraf+Photo+1",
