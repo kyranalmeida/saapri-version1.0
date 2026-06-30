@@ -1,12 +1,12 @@
 # Building an Interface for Oral Testimonies
 
-An interactive archive and conversational simulation for Asian American history projects and oral testimonies.
+An interactive archive and conversational simulation for South Asian American history projects and oral testimonies.
 
 This repository (`saapri-version1.0`) contains the frontend architecture and conversational interfaces designed to preserve and interactively present oral histories.
 
 ## 🚀 Features
 
-* **Interactive Archive:** Explore Asian American history through a dynamic, accessible interface.
+* **Interactive Archive:** Explore South Asian American history through a dynamic, accessible interface.
 * **Conversational Simulation:** Engage with historical testimonies using conversational AI/simulation elements.
 * **Optimized Media Handling:** Built to efficiently manage testimony data (with large video files hosted externally or optimized).
 
