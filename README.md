@@ -1,5 +1,3 @@
-Based on the repository details and the provided context, here is a draft for your `README.md` file. It incorporates the project title, description, and standard setup instructions for a Vite-based JavaScript project.
-
 ---
 
 # Building an Interface for Oral Testimonies
