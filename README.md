@@ -4,6 +4,11 @@ An interactive archive and conversational simulation for South Asian American hi
 
 This repository (`saapri-version1.0`) contains the frontend architecture and conversational interfaces designed to preserve and interactively present oral histories.
 
+# Video Demo
+[![SAAPRI Demo Video](https://img.youtube.com/vi/Sok0yOCrahg/0.jpg)](https://youtu.be/Sok0yOCrahg)
+
+
+
 ## 🚀 Features
 
 * **Interactive Archive:** Explore South Asian American history through a dynamic, accessible interface.
